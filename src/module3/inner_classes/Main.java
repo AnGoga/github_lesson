@@ -1,4 +1,4 @@
-package inner_classes;
+package module3.inner_classes;
 
 
 

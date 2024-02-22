@@ -1,4 +1,4 @@
-package exceptions;
+package module3.exceptions;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        File file = new File("C:\\Users\\Angoga\\IdeaProjects\\samsung_it_school\\src\\exceptions\\a.txt");
+        File file = new File("C:\\Users\\Angoga\\IdeaProjects\\samsung_it_school\\src\\module3.exceptions\\a.txt");
 //        File file = new File("a.txt");
 
         Integer.parseInt("qqq");
